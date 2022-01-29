@@ -1,0 +1,6 @@
+INSERT INTO `reg` (`id`, `name`, `email`, `mob`, `username`, `password`) VALUES
+(3, 'Ansiya', 'ansiyaalif76@gmail.com', '7510465620', 'Ansi', 'ansi123@'),
+(11, 'Ashik', 'ashik@gmail.com', '7560883692', 'ashii', 'ashik4097');
+(3, 'Ansiya', 'nil', 'nil', 'Ansi', 'nil'),
+(11, 'Ashik', 'nil', 'nil', 'ashii', 'ashik4097');
+COMMIT;
